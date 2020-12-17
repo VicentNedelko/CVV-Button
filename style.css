@@ -209,6 +209,21 @@ hr{
     padding-left: 10px;
 }
 
+.certificate{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: medium;
+    line-height: 18px;
+    letter-spacing: 0.14em;
+    color: #1C1C1C;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
 /* Skills Block */
 .skills{
     width: 150px;
